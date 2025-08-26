@@ -4,7 +4,7 @@ import { SocialLink } from './styles'
 const RedeSociais = () => (
   <RedesSociaisContainer>
     <SocialLink
-      href="https://https://www.instagram.com/ricklocao"
+      href="https://www.instagram.com/ricklocao"
       target="_blank"
       rel="noreferrer"
     >
@@ -25,7 +25,7 @@ const RedeSociais = () => (
       <i className="bi bi-github"></i>
     </SocialLink>
     <SocialLink
-      href="https://https://steamcommunity.com/id/R1CKGAMER1/"
+      href="https://steamcommunity.com/id/R1CKGAMER1/"
       target="_blank"
       rel="noreferrer"
     >
